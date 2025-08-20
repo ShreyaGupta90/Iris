@@ -63,7 +63,7 @@ The **Iris dataset** 🌸 is a classic dataset with **150 samples** and 4 featur
 
 #### 🌲 Post-pruning  
 - Grow a **full tree** first.  
-- Then prune using **Cost Complexity Pruning (`ccp_alpha`)**.  
+- Then prune by setting a maximum depth (max_depth).
 - Balances **bias-variance tradeoff** for better generalization.  
 
 ---
