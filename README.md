@@ -14,11 +14,12 @@
 ```bash
 iris-ml-classification/
 │
-├── 📘 Logistic_Regression.ipynb       # Logistic Regression (Binary Classification)
-├── 🌳 DecisionTree_PrePruning.ipynb   # Decision Tree with Pre-pruning
-├── 🌲 DecisionTree_PostPruning.ipynb  # Decision Tree with Post-pruning
+├── 📘 Logistic_Regression(Iris).ipynb       # Logistic Regression (Binary Classification)
+├── 🌳 decision_tree_PrePruning.ipynb   # Decision Tree with Pre-pruning
+├── 🌲 decision_tree_PostPruning.ipynb  # Decision Tree with Post-pruning
 ├── 📄 README.md                       # Documentation
 └── 📦 requirements.txt                # Dependencies
+
 ```
 
 
