@@ -96,3 +96,20 @@ cd iris-ml-classification
 
 # Launch notebooks
 jupyter notebook
+
+---
+
+## 🙋‍♀️ Author
+
+**Shreya Gupta**  
+👩‍💻 Aspiring ML Engineer | Python & AI Enthusiast  
+📫 [LinkedIn](https://www.linkedin.com/in/shreya-gupta-2a6a292ab)  
+📧 [shreyagupta119809@gmail.com](mailto:shreyagupta119809@gmail.com)
+
+---
+
+## 🌟 Support
+
+If you find this helpful, please consider giving it a ⭐  
+Feedback and contributions are always welcome 💬✨
+
