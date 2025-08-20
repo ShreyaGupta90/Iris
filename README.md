@@ -9,12 +9,13 @@
 
 ---
 
-## 📂 Repository Structure  
+📂 iris-ml-classification
+│── Logistic_Regression.ipynb       # Logistic Regression (Binary Classification)
+│── DecisionTree_PrePruning.ipynb   # Decision Tree with Pre-pruning
+│── DecisionTree_PostPruning.ipynb  # Decision Tree with Post-pruning
+│── README.md                       # Documentation
+└── requirements.txt                # Dependencies
 
-├── Logistic_Regression.ipynb # Logistic Regression (Binary Classification)
-├── DecisionTree_PrePruning.ipynb # Decision Tree with Pre-pruning
-├── DecisionTree_PostPruning.ipynb # Decision Tree with Post-pruning
-└── README.md # Documentation
 
 ---
 
